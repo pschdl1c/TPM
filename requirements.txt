@@ -1,0 +1,6 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+matplotlib=3.5.1=py39hcbf5309_0
+numpy=1.21.5=py39ha4e8547_0
+scikit-learn=1.0.2=py39hf11a4ad_1
